@@ -43,9 +43,9 @@ setup(
     keywords='''wikiserieswillemcli ''',
     entry_points = {
                    'console_scripts': [
-                       # enable this to automatically generate a script in /usr/local/bin called myscript that points to your
-                       #  wikiserieswillemcli.wikiserieswillemcli:main method
-                       # 'myscript = wikiserieswillemcli.wikiserieswillemcli:main'
+                    #    enable this to automatically generate a script in /usr/local/bin called myscript that points to your
+                    #     wikiserieswillemcli.wikiserieswillemcli:main method
+                       'wiki-series = wikiserieswillemcli.wikiserieswillemcli:main'
                    ]},
     classifiers=[
         'Development Status :: 3 - Alpha',

@@ -169,6 +169,7 @@
         },
         "wikiserieswillemlib": {
             "hashes": [
+                "sha256:17319661f3d0c0e416dba6559c07f92f2db587f3d53d276df7aaa7822eb242d4",
                 "sha256:dd76b1805a8d5f29b2636aeef5a0b013f1e6905aa8512a87710b05fd10118ce3"
             ],
             "index": "pypi",
