@@ -41,7 +41,7 @@ import coloredlogs
 
 from pathlib import Path
 from pprint import pprint
-from conf import ENCODING
+from wikiserieswillemcli.conf import ENCODING
 from wikiserieswillemlib.wikiserieswillemlib import search_series
 from wikiserieswillemcliexceptions import   SeriesFolderAlreadyExistsError, \
                                             SeriesNotFoundError, \
